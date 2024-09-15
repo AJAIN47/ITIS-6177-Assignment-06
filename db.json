@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "author - 1"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "author - 2"
+    },
+    {
+      "id": "5c98",
+      "title": "ITIS 6177",
+      "author": "Alish"
+    },
+    {
+      "id": "0494",
+      "title": "ITIS 6177",
+      "author": "Alish -2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "body": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
